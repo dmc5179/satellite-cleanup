@@ -1,7 +1,7 @@
 Satellite Cleanup
 =========
 
-Anisble role to cleanup Satellite managed nodes that have not been heard from in a defined period of time
+Anisble role to cleanup Satellite managed nodes that have not been heard from in a defined period of time (BETA)
 
 Requirements
 ------------
